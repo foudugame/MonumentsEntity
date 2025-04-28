@@ -1,1 +1,1 @@
-https://github.com/foudugame/MonumentsEntity/blob/main/pub.json
+maprofile install "https://github.com/foudugame/MonumentsEntity/blob/main/pub.json?raw=true"
