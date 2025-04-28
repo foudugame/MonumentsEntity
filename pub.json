@@ -1,0 +1,1066 @@
+{
+  "Name": "Pub",
+  "SchemaVersion": 2.0,
+  "MonumentData": {
+    "gas_station_1": {
+      "Entities": [
+        {
+          "Id": "c2b37790-5239-443a-9193-6945bb68d0be",
+          "PrefabName": "assets/prefabs/misc/summer_dlc/photoframe/photoframe.landscape.prefab",
+          "Position": {
+            "x": -7.84435558,
+            "y": 5.23831558,
+            "z": 25.7804928
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 180.580429,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "50f37459-0135-474f-a74d-7d069273fe04",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -7.81617641,
+            "y": 6.41724,
+            "z": 25.8576756
+          },
+          "RotationAngles": {
+            "x": 61.4738541,
+            "y": 181.069946,
+            "z": 1.09501671E-05
+          }
+        },
+        {
+          "Id": "9a37df95-90fe-4f2e-b396-c8aa262b98f7",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -8.64073,
+            "y": 4.159088,
+            "z": 31.5335045
+          },
+          "RotationAngles": {
+            "x": 359.121429,
+            "y": 359.80365,
+            "z": 359.991821
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "bdf8bc3b-57d4-4568-9468-6456df5ad2ea",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -8.588215,
+            "y": 7.558216,
+            "z": 31.4722385
+          },
+          "RotationAngles": {
+            "x": 54.3851,
+            "y": 359.719238,
+            "z": 1.48903007E-06
+          }
+        }
+      ]
+    },
+    "lighthouse": {
+      "Entities": [
+        {
+          "Id": "6b6a02ef-eccc-4a8b-b48f-d351ee4aec5a",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 9.670177,
+            "y": 14.2795744,
+            "z": -6.65141869
+          },
+          "RotationAngles": {
+            "x": 358.856384,
+            "y": 189.531708,
+            "z": 0.00761008
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "66951260-54c1-4833-9f53-fe88f51ddb0e",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 9.661343,
+            "y": 17.5525,
+            "z": -6.463508
+          },
+          "RotationAngles": {
+            "x": 60.68779,
+            "y": 190.250427,
+            "z": -9.591621E-06
+          }
+        }
+      ]
+    },
+    "harbor_2": {
+      "Entities": [
+        {
+          "Id": "41046623-6bd8-4ed3-a4a1-96b77515333e",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 101.23185,
+            "y": 1.23698688,
+            "z": 84.5102158
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 359.835724,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "a95d0542-5602-4f76-8b9d-9bb8bf70e014",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 104.38311,
+            "y": 3.74186516,
+            "z": 84.4161
+          },
+          "RotationAngles": {
+            "x": 18.2534237,
+            "y": 304.582062,
+            "z": 284.549377
+          }
+        },
+        {
+          "Id": "98af60ec-d9a8-49bb-8afa-d9ad48fd506f",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -47.3459549,
+            "y": 5.088453,
+            "z": 3.036748
+          },
+          "RotationAngles": {
+            "x": 358.578918,
+            "y": 359.5991,
+            "z": 359.957764
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "83f346fb-d37e-4828-a569-3451d71088eb",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -47.3224144,
+            "y": 8.328894,
+            "z": 2.79910421
+          },
+          "RotationAngles": {
+            "x": 53.17418,
+            "y": 359.6966,
+            "z": -2.00308619E-07
+          }
+        },
+        {
+          "Id": "77de7860-46d8-452b-8f80-be48039a28b6",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -69.77639,
+            "y": 6.37419558,
+            "z": -66.84945
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 270.0516,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "bf3cc338-9070-4eb0-a833-96cee66ec0d8",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -69.67448,
+            "y": 9.450077,
+            "z": -66.76306
+          },
+          "RotationAngles": {
+            "x": 57.6933365,
+            "y": 274.8211,
+            "z": 1.7366972
+          }
+        }
+      ]
+    },
+    "TrainStation": {
+      "Entities": [
+        {
+          "Id": "f754afc8-561e-48d5-b2f7-4a7750edd213",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 7.23547363,
+            "y": 3.493866,
+            "z": -15.0178833
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 270.1927,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "569f9630-4a26-4e5a-99a7-33a892b2eacb",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 7.30444336,
+            "y": 6.81712341,
+            "z": -14.9291992
+          },
+          "RotationAngles": {
+            "x": 60.0512,
+            "y": 267.4926,
+            "z": 6.84077759E-06
+          }
+        },
+        {
+          "Id": "04bd447e-72a0-49f4-98c9-994a4d404ea4",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -9.20874,
+            "y": 2.4742012,
+            "z": -62.4874878
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 89.80247,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        }
+      ]
+    },
+    "satellite_dish": {
+      "Entities": [
+        {
+          "Id": "d2e4405f-94c8-466b-a133-dbf1468447f4",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 12.3008833,
+            "y": 6.87323761,
+            "z": 0.423418641
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 90.3930054,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "ee596045-0cad-4b60-9216-ece85cf91a2a",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 12.246583,
+            "y": 10.05336,
+            "z": 0.473907679
+          },
+          "RotationAngles": {
+            "x": 56.6752243,
+            "y": 91.059845,
+            "z": 359.9932
+          }
+        }
+      ]
+    },
+    "power_sub_big_2": {
+      "Entities": [
+        {
+          "Id": "6bcc026b-eda3-4310-ab2e-d692a5452342",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 9.273848,
+            "y": 0.100728989,
+            "z": 5.830706
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 90.11297,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "3f54996d-a1f3-4d0b-84ce-e24146b9ab9b",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 9.259692,
+            "y": 2.96915245,
+            "z": 5.767007
+          },
+          "RotationAngles": {
+            "x": 63.7016029,
+            "y": 87.76833,
+            "z": -3.85410567E-06
+          }
+        }
+      ]
+    },
+    "radtown_1": {
+      "Entities": [
+        {
+          "Id": "f7263b4b-3833-467a-a5d4-6c2ee50be3e5",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 22.2131138,
+            "y": 3.93512726,
+            "z": 11.4232254
+          },
+          "RotationAngles": {
+            "x": 359.175262,
+            "y": 179.820511,
+            "z": 5.909909E-08
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "32073bd7-ea2c-4eef-a9d1-44cc3f3fd052",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 22.1070576,
+            "y": 6.95801926,
+            "z": 11.5413771
+          },
+          "RotationAngles": {
+            "x": 50.1425858,
+            "y": 183.342987,
+            "z": 6.16138368E-06
+          }
+        },
+        {
+          "Id": "1216320f-61a4-49b0-9368-a67414954e5c",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -32.05866,
+            "y": 4.08823,
+            "z": 29.0100269
+          },
+          "RotationAngles": {
+            "x": 359.1582,
+            "y": 0.0380822942,
+            "z": 359.9874
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "d2541bb6-72b5-4606-a763-fbabb1a5d332",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -32.10582,
+            "y": 7.15948868,
+            "z": 28.9450016
+          },
+          "RotationAngles": {
+            "x": 54.5094757,
+            "y": 1.09268582,
+            "z": 5.330861E-06
+          }
+        }
+      ]
+    },
+    "compound": {
+      "Entities": [
+        {
+          "Id": "24637abc-e054-4e66-9cc8-fe239d56e4c8",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -2.30093479,
+            "y": 3.52069855,
+            "z": -46.70481
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.2555332,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "eab0fd3f-c7d0-4d22-ac48-308427a96133",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -2.31644583,
+            "y": 6.672882,
+            "z": -46.88079
+          },
+          "RotationAngles": {
+            "x": 61.0092239,
+            "y": 4.7506237,
+            "z": 4.5152874
+          }
+        },
+        {
+          "Id": "b042126c-dd92-406d-bd99-b20ae9512ffb",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -31.5373611,
+            "y": 4.6419487,
+            "z": 7.29874468
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.240724951,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "e315eafb-4eb4-45ac-af71-27881e8380d6",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -31.4209232,
+            "y": 7.761009,
+            "z": 7.246276
+          },
+          "RotationAngles": {
+            "x": 49.812542,
+            "y": 358.778229,
+            "z": 9.096202E-06
+          }
+        }
+      ]
+    },
+    "power_sub_small_1": {
+      "Entities": [
+        {
+          "Id": "c95755ec-a956-407a-87f4-c0c01df66be5",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 1.47958088,
+            "y": 0.181468964,
+            "z": 4.695449
+          },
+          "RotationAngles": {
+            "x": 358.989471,
+            "y": 358.985077,
+            "z": 359.954742
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "a78aa6a2-8972-4e0a-ab98-5c0a9f0d1b61",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 1.67616761,
+            "y": 3.03407288,
+            "z": 4.72663641
+          },
+          "RotationAngles": {
+            "x": 53.26712,
+            "y": 359.571167,
+            "z": 5.77696073E-06
+          }
+        }
+      ]
+    },
+    "military_tunnel_1": {
+      "Entities": [
+        {
+          "Id": "28c74818-e58a-46b5-8fe3-d01db6cb3094",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -50.91861,
+            "y": 19.5670338,
+            "z": 33.55762
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 67.54474,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "8aebcf22-30f8-4e60-8e29-a911239ba184",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -50.85422,
+            "y": 22.4508648,
+            "z": 33.4404
+          },
+          "RotationAngles": {
+            "x": 57.2941475,
+            "y": 72.38228,
+            "z": -1.26408559E-05
+          }
+        }
+      ]
+    },
+    "warehouse": {
+      "Entities": [
+        {
+          "Id": "6aecc121-e427-4d3e-a4d5-d3ca5e16c61a",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 9.251635,
+            "y": 1.120636,
+            "z": -0.0514877178
+          },
+          "RotationAngles": {
+            "x": -0.000108503729,
+            "y": 0.469743282,
+            "z": 4.674561E-06
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "90518af2-4cd1-4be3-a402-dc6cd696f694",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 9.263573,
+            "y": 4.09259224,
+            "z": -0.09879011
+          },
+          "RotationAngles": {
+            "x": 56.69601,
+            "y": 357.442,
+            "z": -4.47037564E-06
+          }
+        }
+      ]
+    },
+    "sphere_tank": {
+      "Entities": [
+        {
+          "Id": "c342d929-fd91-46e7-a97a-1adb0d390da5",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -19.7484779,
+            "y": 5.85491753,
+            "z": -37.0580025
+          },
+          "RotationAngles": {
+            "x": 359.147583,
+            "y": 179.879456,
+            "z": 0.00275307614
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "65d1e0f6-0ba2-476f-94e0-623617bd6898",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -19.7861843,
+            "y": 8.67655,
+            "z": -37.0812225
+          },
+          "RotationAngles": {
+            "x": 57.5737152,
+            "y": 182.989578,
+            "z": 1.59222441E-06
+          }
+        }
+      ]
+    },
+    "excavator_1": {
+      "Entities": [
+        {
+          "Id": "5314987f-7e4e-425c-a39e-adf1562e58d9",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -2.03363037,
+            "y": 23.9867725,
+            "z": 18.0054016
+          },
+          "RotationAngles": {
+            "x": 351.504761,
+            "y": 319.921722,
+            "z": 0.390281916
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "fb068dbd-75fe-444f-9774-f0c91b913e3b",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -1.93731689,
+            "y": 23.7268162,
+            "z": 17.9837341
+          },
+          "RotationAngles": {
+            "x": 281.663269,
+            "y": 313.900055,
+            "z": 185.9286
+          }
+        },
+        {
+          "Id": "6a04a3d7-76fb-4e26-afce-a46bb43b4a3c",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -87.86194,
+            "y": 3.90172577,
+            "z": -54.66754
+          },
+          "RotationAngles": {
+            "x": 358.86792,
+            "y": 225.028748,
+            "z": 0.0288061257
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "35ffa9e3-c9c2-4bcf-9042-73050d5343f0",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -87.97693,
+            "y": 6.994938,
+            "z": -54.4590149
+          },
+          "RotationAngles": {
+            "x": 58.1978836,
+            "y": 223.674011,
+            "z": 6.480413E-06
+          }
+        }
+      ]
+    },
+    "trainyard_1": {
+      "Entities": [
+        {
+          "Id": "c9a0ca30-c29e-4096-867f-c39cd7fbcb62",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -25.0147076,
+            "y": 6.265377,
+            "z": 13.933486
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 90.10721,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "a633f04e-781c-4b5f-8583-a3e25b8a72ee",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -25.0818729,
+            "y": 9.053139,
+            "z": 13.9563675
+          },
+          "RotationAngles": {
+            "x": 54.42068,
+            "y": 82.90723,
+            "z": -8.804369E-06
+          }
+        }
+      ]
+    },
+    "bandit_town": {
+      "Entities": [
+        {
+          "Id": "ee573e19-022e-4e56-9ba5-ff141c41f574",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -55.0225945,
+            "y": 3.239233,
+            "z": 20.5704441
+          },
+          "RotationAngles": {
+            "x": 358.844,
+            "y": 142.261322,
+            "z": 0.0697510242
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "004176d3-201e-4237-be73-cbd0ba5bfa74",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -55.0040665,
+            "y": 6.372818,
+            "z": 20.6573982
+          },
+          "RotationAngles": {
+            "x": 53.10398,
+            "y": 142.3395,
+            "z": -4.26627548E-06
+          }
+        }
+      ]
+    },
+    "launch_site_1": {
+      "Entities": [
+        {
+          "Id": "3b23286e-7008-4760-baef-f8646ec4d66e",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 262.8009,
+            "y": 3.4001503,
+            "z": -76.7590256
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 179.588531,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "ffcba4fd-9e2a-4a70-b919-719d5e4c4c4f",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 262.775421,
+            "y": 3.27832222,
+            "z": -76.95011
+          },
+          "RotationAngles": {
+            "x": 279.154755,
+            "y": 173.082535,
+            "z": 187.841431
+          }
+        },
+        {
+          "Id": "ed8eb162-73c5-4c02-9d69-49a6fc874171",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 98.684,
+            "y": 3.38610268,
+            "z": -34.2348366
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 358.6886,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "1b29e587-3e27-47dc-a559-c339c5af2be3",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 98.75897,
+            "y": 3.30435944,
+            "z": -33.92135
+          },
+          "RotationAngles": {
+            "x": 272.0923,
+            "y": 178.614777,
+            "z": -0.000169542225
+          }
+        },
+        {
+          "Id": "d23d96da-5d6c-4df5-afd6-92a99003b85c",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 263.323944,
+            "y": 3.37195969,
+            "z": 44.0413475
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 358.8631,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "dd384013-76d7-4fbf-be71-2bac0cfa415f",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 263.30957,
+            "y": 3.21373177,
+            "z": 44.5357552
+          },
+          "RotationAngles": {
+            "x": 272.173676,
+            "y": 45.25304,
+            "z": 132.907974
+          }
+        }
+      ]
+    },
+    "fishing_village_a": {
+      "Entities": [
+        {
+          "Id": "ae327458-57ed-4af3-90e8-b470398c3f38",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -16.672472,
+            "y": 3.13110924,
+            "z": -30.1072941
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 178.67424,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "ef751f12-b87c-4e4d-a680-70ed5bc7b1b6",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -16.61071,
+            "y": 6.13757563,
+            "z": -30.0079288
+          },
+          "RotationAngles": {
+            "x": 53.588707,
+            "y": 179.008911,
+            "z": 1.24956823E-05
+          }
+        }
+      ]
+    },
+    "ferry_terminal_1": {
+      "Entities": [
+        {
+          "Id": "955b196f-c465-443e-a672-b519071a68f9",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -24.04113,
+            "y": 9.250677,
+            "z": -4.233077
+          },
+          "RotationAngles": {
+            "x": -6.67010669E-09,
+            "y": 269.806671,
+            "z": 0.144156158
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "6487d8cd-5445-4744-bf41-d8e5af86dd18",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -24.0017376,
+            "y": 12.3811226,
+            "z": -4.315101
+          },
+          "RotationAngles": {
+            "x": 59.455513,
+            "y": 265.374329,
+            "z": 359.495819
+          }
+        }
+      ]
+    },
+    "cave_large_sewers_hard": {
+      "Entities": [
+        {
+          "Id": "b0861117-4a84-4cba-9b3d-2ac7eb336817",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 30.3836937,
+            "y": 1.821516,
+            "z": -32.70352
+          },
+          "RotationAngles": {
+            "x": 358.865082,
+            "y": 135.16687,
+            "z": 1.60113956E-07
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "d53e5e7d-91a8-41b3-bdc1-ea141f6d2b51",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 30.3377247,
+            "y": 4.751045,
+            "z": -32.627636
+          },
+          "RotationAngles": {
+            "x": 73.44863,
+            "y": 133.507538,
+            "z": -1.7982029E-05
+          }
+        }
+      ]
+    },
+    "supermarket_1": {
+      "Entities": [
+        {
+          "Id": "88a95c43-187d-4142-867b-744167750215",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -7.55076361,
+            "y": 0.9911232,
+            "z": -2.44109344
+          },
+          "RotationAngles": {
+            "x": 358.7805,
+            "y": 269.769348,
+            "z": 1.601188E-07
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "8c15ac1f-3dee-494f-ba47-0e626d2b5f95",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": -7.497495,
+            "y": 4.21229172,
+            "z": -2.29018736
+          },
+          "RotationAngles": {
+            "x": 74.80982,
+            "y": 271.344238,
+            "z": 6.516761E-06
+          }
+        }
+      ]
+    },
+    "arctic_research_base_a": {
+      "Entities": [
+        {
+          "Id": "60a65576-3b8d-4c6a-a29e-0f8a13bf108c",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 18.2409668,
+            "y": 0.506135941,
+            "z": -11.4433146
+          },
+          "RotationAngles": {
+            "x": 343.387238,
+            "y": 342.385132,
+            "z": 359.163574
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/pub"
+            }
+          ]
+        },
+        {
+          "Id": "4e3b1931-c70c-4fb1-893a-e454704c3bb4",
+          "PrefabName": "assets/prefabs/io/electric/lights/simplelight.prefab",
+          "Position": {
+            "x": 18.0373764,
+            "y": 0.306848526,
+            "z": -11.1796026
+          },
+          "RotationAngles": {
+            "x": 271.061646,
+            "y": 210.0734,
+            "z": 307.656219
+          }
+        }
+      ]
+    }
+  }
+}
