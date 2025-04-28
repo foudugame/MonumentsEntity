@@ -1,6 +1,7 @@
 {
   "Name": "pub",
   "SchemaVersion": 2.0,
+  "Url": "https://github.com/foudugame/MonumentsEntity/blob/main/pub.json?raw=true",
   "MonumentData": {
     "gas_station_1": {
       "Entities": [
