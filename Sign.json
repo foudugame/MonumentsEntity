@@ -1,0 +1,664 @@
+{
+  "Name": "Sign",
+  "SchemaVersion": 2.0,
+  "Url": "https://the-bandit.ovh/api/rust/1.0v/files/Sign.json",
+  "MonumentData": {
+    "compound": {
+      "Entities": [
+        {
+          "Id": "f3fc0fcd-0fdc-4475-a731-6e7a883655c9",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -17.2514381,
+            "y": 6.12272263,
+            "z": 47.7949562
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 179.8688,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "9d7214bf-7bfa-4822-b78c-2f2d429121e3",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -17.4941273,
+            "y": 6.02164841,
+            "z": -57.09118
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 359.884583,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "ab73447b-c174-4981-bd0e-2fc25e8bb285",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 17.241291,
+            "y": 1.03364182,
+            "z": 10.9016638
+          },
+          "RotationAngles": {
+            "x": -1.33402134E-08,
+            "y": 90.20813,
+            "z": 0.245775878
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "warehouse": {
+      "Entities": [
+        {
+          "Id": "5c29d41e-781c-47d6-8a77-fb5a701fa289",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 3.43579721,
+            "y": 1.62247849,
+            "z": -0.625377536
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 180.156738,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "mining_quarry_c": {
+      "Entities": [
+        {
+          "Id": "60624a8f-fa04-4df1-bb7d-df26ecd7d774",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -19.666193,
+            "y": 3.371954,
+            "z": 29.77794
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 269.850067,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social/?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "powerplant_1": {
+      "Entities": [
+        {
+          "Id": "24baba80-7a27-4298-986f-9c519d1f3297",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -36.0020447,
+            "y": 13.7778,
+            "z": 20.3471279
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 359.776917,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "5c3757a2-31b8-40a5-b36a-7487023a2110",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -81.93701,
+            "y": 6.312544,
+            "z": -67.7161942
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 89.84877,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "military_tunnel_1": {
+      "Entities": [
+        {
+          "Id": "cf3e5609-9e3e-44b7-a30e-a880c40af81e",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -63.8820419,
+            "y": 23.6047287,
+            "z": 31.7116318
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 248.055817,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "5d3f6803-4425-43a9-a59b-b0ea5670f22a",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -56.1360168,
+            "y": 19.8181686,
+            "z": 38.14501
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 337.560852,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "airfield_1": {
+      "Entities": [
+        {
+          "Id": "5402f2f9-84b0-4247-9da9-8a5d36ef670e",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -42.8453178,
+            "y": 15.3735428,
+            "z": -80.69866
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 359.683929,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "34fde5bc-ca4b-4a4b-a942-bfc4e45155e8",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -12.5575857,
+            "y": 4.60020447,
+            "z": -93.006134
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 180.034912,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "trainyard_1": {
+      "Entities": [
+        {
+          "Id": "77729e20-1abd-407d-b4ca-08c0345f14fc",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -8.047446,
+            "y": 14.449337,
+            "z": 36.7205772
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 179.61145,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "205d43c3-2869-41fa-b200-94947bef97f9",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 98.5363541,
+            "y": 20.9234867,
+            "z": -48.98556
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 270.6049,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "sphere_tank": {
+      "Entities": [
+        {
+          "Id": "4acbc615-b5ac-44ac-a301-c6ac57f96f09",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -26.26724,
+            "y": 9.562681,
+            "z": -12.0621185
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 330.7035,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "supermarket_1": {
+      "Entities": [
+        {
+          "Id": "896b72a3-9f55-477b-bd15-1d85e405a4d5",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 7.83103275,
+            "y": 0.967102051,
+            "z": 5.18084764
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 180.035034,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "8e66a67b-9359-4960-9993-3b3ba2416eef",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -1.46940088,
+            "y": 1.119133,
+            "z": 10.53429
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.204108953,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "nuclear_missile_silo": {
+      "Entities": [
+        {
+          "Id": "5b149167-e7c7-4ce5-8256-8b2bedb077ba",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -0.555498064,
+            "y": 5.68223572,
+            "z": 24.4436474
+          },
+          "RotationAngles": {
+            "x": 355.677917,
+            "y": 0.121548831,
+            "z": 6.271059E-09
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "satellite_dish": {
+      "Entities": [
+        {
+          "Id": "a2bf5834-9226-47f7-a001-0d3bd700cac9",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 6.13884926,
+            "y": 7.108265,
+            "z": 1.73037732
+          },
+          "RotationAngles": {
+            "x": 357.561554,
+            "y": 269.7041,
+            "z": -1.06818419E-07
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "bandit_town": {
+      "Entities": [
+        {
+          "Id": "e48fa75e-e281-4919-be4b-612f5d6b66f6",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 52.4782753,
+            "y": 9.89049,
+            "z": -27.2340679
+          },
+          "RotationAngles": {
+            "x": 358.516052,
+            "y": 135.217072,
+            "z": -1.067575E-07
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "d6c48312-dd3d-4436-b5e8-8895e8094492",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 41.79795,
+            "y": 8.130316,
+            "z": -16.4910278
+          },
+          "RotationAngles": {
+            "x": 359.002563,
+            "y": 315.043976,
+            "z": -2.66844662E-08
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "27fda2f2-05ed-4665-9559-41fa2bedde0a",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 46.82808,
+            "y": 10.1182308,
+            "z": -25.4480381
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 44.731945,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "60a16966-c3c8-4f34-8924-af71216b2259",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 46.8305,
+            "y": 7.42668343,
+            "z": -25.4357338
+          },
+          "RotationAngles": {
+            "x": 358.241425,
+            "y": 44.991,
+            "z": 0.0491580926
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/topmoney?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "gas_station_1": {
+      "Entities": [
+        {
+          "Id": "0e87f31e-b2c3-4e5e-99e7-bb70d6ca9689",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -15.0712023,
+            "y": 4.41547,
+            "z": 24.809803
+          },
+          "RotationAngles": {
+            "x": 358.061523,
+            "y": 270.088074,
+            "z": -1.067828E-07
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "radtown_small_3": {
+      "Entities": [
+        {
+          "Id": "d9c38383-a75b-4db8-a34d-376ecc6e44d1",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -41.1943779,
+            "y": 19.7832279,
+            "z": -56.5552864
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 255.279678,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "b5aae95e-d763-4519-a4b1-0e40e0e7d358",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -53.1727142,
+            "y": 19.84023,
+            "z": -56.9844437
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 75.80458,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "arctic_research_base_a": {
+      "Entities": [
+        {
+          "Id": "5c19b961-0a26-422f-a635-c3f343db3a7e",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 9.824521,
+            "y": 3.46363831,
+            "z": -18.8138065
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 314.9201,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "a2a840cb-8dfa-4d37-9d80-184175a6bfa1",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 14.4851446,
+            "y": 3.509945,
+            "z": -16.953495
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 359.878326,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "launch_site_1": {
+      "Entities": [
+        {
+          "Id": "5b0d82dc-88ae-410f-9b9f-730eb8c7774c",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 182.298325,
+            "y": 40.73005,
+            "z": -0.162581116
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 270.436554,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "2dcda590-26b2-4408-8bb6-d6a2984334aa",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -35.54056,
+            "y": 32.0874634,
+            "z": -32.9746361
+          },
+          "RotationAngles": {
+            "x": 3.583916,
+            "y": 89.8397751,
+            "z": 0.0214387756
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "water_treatment_plant_1": {
+      "Entities": [
+        {
+          "Id": "e538c12d-767a-45f1-b013-b6ea2d97c8de",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 2.88238931,
+            "y": 2.627411,
+            "z": -67.68594
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 89.99265,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/social?bg=%231c1c1a"
+            }
+          ]
+        },
+        {
+          "Id": "efdbf9b4-532b-43ed-9b7c-d9cc63b9d14c",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": 71.71561,
+            "y": 8.989193,
+            "z": -6.42549
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 270.222137,
+            "z": 0.0
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/rulesFR?bg=%231c1c1a"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

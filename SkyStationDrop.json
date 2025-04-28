@@ -1,0 +1,176 @@
+{
+  "Name": "SkyStationDrop",
+  "SchemaVersion": 2.0,
+  "Url": "https://api.the-bandit.ovh/files/SkyStationDrop.json",
+  "MonumentData": {
+    "power_sub_big_2": {
+      "SpawnGroups": [
+        {
+          "Id": "0743c3de-7b93-4812-931c-72fa3cf9d3cc",
+          "Name": "StationDropPoint",
+          "MaxPopulation": 6,
+          "SpawnPerTickMin": 6,
+          "SpawnPerTickMax": 10,
+          "RespawnDelayMin": 1500.0,
+          "RespawnDelayMax": 2100.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_heavy.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "f4abcf82-4afd-4e70-bc1e-9eea0cc0d63a",
+              "Position": {
+                "x": 15.2230072,
+                "y": 100.084641,
+                "z": 26.1607666
+              },
+              "RotationAngles": {
+                "x": 7.81653145E-11,
+                "y": 269.538422,
+                "z": 0.0007419141
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            },
+            {
+              "Id": "f4abcf82-4afd-4e70-bc1e-9eea0cc0d64a",
+              "Position": {
+                "x": 29.2785854,
+                "y": 100.097961,
+                "z": -5.39208651
+              },
+              "RotationAngles": {
+                "x": 1.74738872,
+                "y": 315.131317,
+                "z": 1.373903
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            },
+            {
+              "Id": "f4abcf82-4afd-4e70-bc1e-9eea0cc0d65a",
+              "Position": {
+                "x": 19.7326641,
+                "y": 100.203636,
+                "z": 1.6470654
+              },
+              "RotationAngles": {
+                "x": 351.1361,
+                "y": 269.53833,
+                "z": 0.00124818285
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            },
+            {
+              "Id": "f4abcf82-4afd-4e70-bc1e-9eea0cc0d66a",
+              "Position": {
+                "x": 8.5255,
+                "y": 100.0008,
+                "z": 4.806999
+              },
+              "RotationAngles": {
+                "x": 6.922299,
+                "y": 114.865509,
+                "z": 30.8146725
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            },
+            {
+              "Id": "f4abcf82-4afd-4e70-bc1e-9eea0cc0d67a",
+              "Position": {
+                "x": 7.497015,
+                "y": 100.107635,
+                "z": 10.5402946
+              },
+              "RotationAngles": {
+                "x": 351.1361,
+                "y": 269.53833,
+                "z": 0.00124818285
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "bf41d540-16e0-4edc-9ad2-acb1545eb353",
+          "Name": "StationDropCrateCode",
+          "MaxPopulation": 2,
+          "SpawnPerTickMin": 2,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 3600.0,
+          "RespawnDelayMax": 7200.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "8ebb3165-184c-4b4b-9b9f-8f850e5a2d25",
+              "Position": {
+                "x": 13.4065666,
+                "y": 107.598839,
+                "z": 7.762142
+              },
+              "RotationAngles": {
+                "x": 359.01413,
+                "y": 259.415131,
+                "z": 354.897125
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            },
+            {
+              "Id": "8ebb3165-184c-4b4b-9b9f-8f850e5a2d27",
+              "Position": {
+                "x": 12.9311428,
+                "y": 101.480637,
+                "z": 7.521143
+              },
+              "RotationAngles": {
+                "x": 359.9855,
+                "y": 269.735779,
+                "z": 359.6662
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        }
+      ],
+      "Pastes": [
+        {
+          "Id": "3664e5f2-b079-4df9-9756-87b49595c8cb",
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 72.1404953,
+            "z": 0.0
+          },
+          "Filename": "Map/SkyStationDrop",
+          "Args": [
+            "autoheight",
+            "false",
+            "height",
+            "100",
+            "stability",
+            "false"
+          ]
+        }
+      ]
+    }
+  }
+}

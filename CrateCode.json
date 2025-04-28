@@ -1,0 +1,485 @@
+{
+  "Name": "CrateCode",
+  "SchemaVersion": 2.0,
+  "Url": "https://api.the-bandit.ovh/files/CrateCode.json",
+  "MonumentData": {
+    "arctic_research_base_a": {
+      "SpawnGroups": [
+        {
+          "Id": "bb185f37-e2f6-45ca-bcb4-dace5490e41f",
+          "Name": "crate",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "db47f86e-08c0-45b6-8a91-9aa22a2b1bfd",
+              "Position": {
+                "x": -1.23677123,
+                "y": 0.114990234,
+                "z": -8.235564
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 347.6225,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        }
+      ]
+    },
+    "airfield_1": {
+      "SpawnGroups": [
+        {
+          "Id": "55b952b7-3cef-443e-95a6-2edf14d7a5db",
+          "Name": "crate",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+              "Weight": 200
+            },
+            {
+              "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "a8fc4a66-3d0d-4f81-bd0b-e66207c3d1e8",
+              "Position": {
+                "x": -90.43949,
+                "y": 0.275184631,
+                "z": -5.81853676
+              },
+              "RotationAngles": {
+                "x": 9.834593E-05,
+                "y": 75.96028,
+                "z": 0.005810341
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "b3a5f9b3-82b3-4f1d-9b3c-6b6e98568be1",
+          "Name": "npc1",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_heavy.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "39fe4c79-79b1-43bc-9c94-1790496ea576",
+              "Position": {
+                "x": -87.50659,
+                "y": 0.374916077,
+                "z": -8.101331
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 301.118042,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "79da250c-039f-4edf-8ca4-6efc6a4ecd2f",
+          "Name": "npc2",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_heavy.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "f7e9f220-f0e7-40d0-a882-2b8bb8ce2f6e",
+              "Position": {
+                "x": -105.42765,
+                "y": 0.84695816,
+                "z": -15.3376017
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 339.551056,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "ef4a373c-5973-43e8-b16d-d896574eb70b",
+          "Name": "npc3",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_heavy.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "1c68f791-47a0-4d68-a09d-bb79efdc0f1f",
+              "Position": {
+                "x": -99.8454,
+                "y": 0.309165955,
+                "z": -5.74805975
+              },
+              "RotationAngles": {
+                "x": 1.89575834E-22,
+                "y": 17.2831421,
+                "z": -8.384247E-15
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "e9f0c08d-28d4-455e-9ec8-23a6eedb36dd",
+          "Name": "npc4",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_heavy.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "dc856e6f-ea62-40d5-a78d-54a5342e039a",
+              "Position": {
+                "x": -93.10041,
+                "y": 0.35635376,
+                "z": -14.34447
+              },
+              "RotationAngles": {
+                "x": 4.51984E-29,
+                "y": 322.473145,
+                "z": -6.33115428E-22
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "cb3c8e35-daeb-4a27-9cc5-f351d506fe94",
+          "Name": "crate2",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "eeb3bc45-ed93-49f8-a15a-62918fcaed74",
+              "Position": {
+                "x": -87.99784,
+                "y": 0.331119537,
+                "z": -10.7916937
+              },
+              "RotationAngles": {
+                "x": 0.0104149487,
+                "y": 51.33778,
+                "z": 0.0282900333
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "299abdd1-716c-4c49-a4ed-36b6467c9887",
+          "Name": "helicopter",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/prefabs/npc/ch47/ch47.entity.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "1b048479-8e78-46cc-9275-deac19000f3d",
+              "Position": {
+                "x": -96.55781,
+                "y": -0.4671936,
+                "z": -9.808835
+              },
+              "RotationAngles": {
+                "x": 356.995361,
+                "y": 267.916443,
+                "z": 1.61503458
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        }
+      ]
+    },
+    "satellite_dish": {
+      "SpawnGroups": [
+        {
+          "Id": "d671a0cd-f823-4810-ae22-9618a24fc15f",
+          "Name": "crate",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "4e50af73-029d-451f-81e6-0f10718c3ebb",
+              "Position": {
+                "x": 57.1576653,
+                "y": 6.01799774,
+                "z": -6.71768141
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 58.5059052,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "6ff80359-fe05-422a-80ee-ed1af8c79bc7",
+          "Name": "npc1",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_junkpile_pistol.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "fc719181-5cbc-40b5-980f-74892758f76f",
+              "Position": {
+                "x": 52.00554,
+                "y": 6.01799774,
+                "z": -12.9271851
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 132.486084,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "2072aa66-7fcd-4324-890d-467d879d5bcf",
+          "Name": "npc",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_junkpile_pistol.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "e195bf0a-35f4-4158-9793-a3543a7f7872",
+              "Position": {
+                "x": 65.74549,
+                "y": 6.0716095,
+                "z": -13.8504791
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 83.48099,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "7621f7e6-364f-4135-901b-ca64a4e31202",
+          "Name": "npc2",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_junkpile_pistol.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "1ec24578-c0e8-477f-a31d-6dd061db888a",
+              "Position": {
+                "x": 62.5277557,
+                "y": 6.01799774,
+                "z": 0.0799284354
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 11.3010254,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "a3f2c219-e01d-4c4a-b5a6-dfabf90195ec",
+          "Name": "npc3",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_junkpile_pistol.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "ab6c1f9b-51b7-4066-baaa-d398caa4e8db",
+              "Position": {
+                "x": 46.7994041,
+                "y": 6.0716095,
+                "z": 1.963204
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 55.9860077,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        },
+        {
+          "Id": "c2c4e6f8-c861-4a36-92ad-16d94f09c6b5",
+          "Name": "npc4",
+          "MaxPopulation": 1,
+          "SpawnPerTickMin": 1,
+          "SpawnPerTickMax": 2,
+          "RespawnDelayMin": 7200.0,
+          "RespawnDelayMax": 10800.0,
+          "InitialSpawn": true,
+          "Prefabs": [
+            {
+              "PrefabName": "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_junkpile_pistol.prefab",
+              "Weight": 100
+            }
+          ],
+          "SpawnPoints": [
+            {
+              "Id": "59654711-97b1-4d93-88de-ab567c16d368",
+              "Position": {
+                "x": 45.9813271,
+                "y": 6.06884766,
+                "z": -15.9335575
+              },
+              "RotationAngles": {
+                "x": 0.0,
+                "y": 335.121033,
+                "z": 0.0
+              },
+              "Exclusive": true,
+              "SnapToGround": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

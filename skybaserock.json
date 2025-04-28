@@ -1,0 +1,1099 @@
+{
+  "Name": "skybaserock",
+  "SchemaVersion": 2.0,
+  "Url": "https://the-bandit.ovh/api/rust/1.0v/files/SkyBaseRock.json",
+  "MonumentData": {
+    "power_sub_small_1": {
+      "Entities": [
+        {
+          "Id": "bb8fcaa5-f9ab-4a82-a85b-69d205c2690c",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 0.0,
+            "y": 220.0,
+            "z": 0.0
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "67ec1371-3536-418c-aced-0dc98c3648d6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -60.1572647,
+            "y": 218.8194,
+            "z": 19.0311279
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "5a847def-66d4-4476-9424-d1d814af9991",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 31.4574051,
+            "y": 220.0,
+            "z": 13.61499
+          },
+          "RotationAngles": {
+            "x": 4.82171936E-06,
+            "y": 254.2846,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "7012e77d-bbb6-40a7-8ee1-eee44fd0c3e6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -42.5182953,
+            "y": 218.789566,
+            "z": 5.180664
+          },
+          "RotationAngles": {
+            "x": 353.999969,
+            "y": -5.26463964E-07,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "6cc4f700-2d3d-4743-8a79-15a6d3d5f7b3",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -24.7934875,
+            "y": 220.0,
+            "z": 18.9249878
+          },
+          "RotationAngles": {
+            "x": -2.7174367E-06,
+            "y": 147.144974,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "c2712764-eb57-4794-9e49-defb1338deee",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 23.5195389,
+            "y": 220.0,
+            "z": 23.16095
+          },
+          "RotationAngles": {
+            "x": 3.49734819E-06,
+            "y": 224.284225,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "c740b034-8da9-45e9-8efa-c8f0505aa2ad",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -20.1904678,
+            "y": 220.278641,
+            "z": -23.6625366
+          },
+          "RotationAngles": {
+            "x": 354.857056,
+            "y": 47.1434479,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "124ffc17-06a3-469a-934e-90dee172f2f7",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -4.88433075,
+            "y": 213.017258,
+            "z": 6.50598145
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "2506fb9a-8238-4b85-8a0c-5ceff64ff55a",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -10.4272385,
+            "y": 220.0,
+            "z": -30.5818481
+          },
+          "RotationAngles": {
+            "x": -2.61186369E-06,
+            "y": 31.4287872,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "fb7d7ffd-a60a-476b-9711-5ae102bba52c",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 42.7976379,
+            "y": 219.55127,
+            "z": 32.20807
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "56bf24d1-5bbd-4478-a055-4ce08a527566",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 11.3550339,
+            "y": 220.0,
+            "z": 30.3699951
+          },
+          "RotationAngles": {
+            "x": -1.80045356E-06,
+            "y": 23.1430435,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "099e806c-971c-49ec-99da-0477553603f4",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -18.4967422,
+            "y": 220.0,
+            "z": -0.143371582
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "f8e633ee-1df7-4e11-b3eb-53f4c97935c8",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -17.9551163,
+            "y": 220.0,
+            "z": -17.00122
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "b6a5edb9-64ea-42c3-a576-e6fb661f429b",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 24.0002289,
+            "y": 220.0,
+            "z": -21.79309
+          },
+          "RotationAngles": {
+            "x": -3.40713677E-06,
+            "y": 137.14006,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "f59d256b-3149-4ac9-9cee-038a1a3f540b",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 18.8571777,
+            "y": 220.0,
+            "z": 17.885437
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "6b57bbb1-3ab1-49a4-85c3-9356fcd5edc6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -0.611335754,
+            "y": 220.259827,
+            "z": -17.4177856
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "f72b27cc-c81d-46cf-8ce6-edcb8abccf34",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 18.5484848,
+            "y": 220.0,
+            "z": 0.9614258
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "843ad655-3bf9-4278-b6d6-98d4baf362d1",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 0.68372345,
+            "y": 220.0,
+            "z": -32.67517
+          },
+          "RotationAngles": {
+            "x": -3.74322525E-07,
+            "y": 4.285746,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "6fda3f08-c9e0-40e1-89be-b227090eee77",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 0.7874222,
+            "y": 220.0,
+            "z": 17.49115
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "4c3a7160-6184-4d93-930d-7c58bdb5722d",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -34.5762634,
+            "y": 220.0,
+            "z": 7.876404
+          },
+          "RotationAngles": {
+            "x": -3.916095E-06,
+            "y": 128.572662,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "a6c99e79-7f2e-4d55-a490-a8064ae7c299",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -33.0629959,
+            "y": 220.0,
+            "z": -0.0322265625
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "23116813-ee94-4874-98af-3fc159383dc6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 6.246305,
+            "y": 213.188263,
+            "z": 0.514018536
+          },
+          "RotationAngles": {
+            "x": -8.857008E-15,
+            "y": -3.871521E-22,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "d83bbb1e-0be0-4b05-86c0-e527547e88b1",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 12.79258,
+            "y": 220.0,
+            "z": -29.2072144
+          },
+          "RotationAngles": {
+            "x": 1.45805723E-06,
+            "y": 339.9996,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "ca33abc9-0ae8-4b55-94b3-253c1b61f63d",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -1.9123764,
+            "y": 220.0,
+            "z": 32.5043335
+          },
+          "RotationAngles": {
+            "x": 3.74321644E-07,
+            "y": 355.714264,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "90ca35bb-26c4-478d-ac5d-413851801d65",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -29.7615089,
+            "y": 220.0,
+            "z": -11.0229492
+          },
+          "RotationAngles": {
+            "x": -4.13862836E-06,
+            "y": 55.7149467,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "68919c80-77b6-479f-add6-aa79f8436254",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 32.7538223,
+            "y": 220.0,
+            "z": 0.9749756
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "94a0fbb8-0d9b-45c7-b9cc-2cd9ddde70c7",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 16.7891388,
+            "y": 220.0,
+            "z": -16.3308716
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "2bea5323-3329-4f49-961b-38d2c58fa28e",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 30.3911057,
+            "y": 220.0,
+            "z": -9.321594
+          },
+          "RotationAngles": {
+            "x": 4.98410645E-06,
+            "y": 294.9723,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "27221647-5471-4584-a052-bf7a693e8eb6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -14.3532867,
+            "y": 220.0,
+            "z": 27.0101318
+          },
+          "RotationAngles": {
+            "x": -2.50435687E-06,
+            "y": 150.001633,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "df3e97a8-db56-43fa-8d0e-e6e9f5ae5308",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -29.6674728,
+            "y": 211.684082,
+            "z": -41.7837524
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "71a665d2-68f4-4429-9ae9-0dcc4c7a7799",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -16.89824,
+            "y": 220.0,
+            "z": 16.897644
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "586d4a64-f03b-4072-9cb6-972023195198",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -40.8452225,
+            "y": 216.249084,
+            "z": -7.814209
+          },
+          "RotationAngles": {
+            "x": 349.984772,
+            "y": 341.13028,
+            "z": 170.544464
+          }
+        },
+        {
+          "Id": "ba6be81c-ccfa-4e19-856c-13914eec54cb",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 24.8521881,
+            "y": 220.247849,
+            "z": -44.8786621
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "176a0d55-b440-4c13-b910-55e93d967550",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 1.23583388,
+            "y": 213.374481,
+            "z": 3.62823772
+          },
+          "RotationAngles": {
+            "x": 347.594666,
+            "y": 224.120514,
+            "z": 181.022537
+          }
+        },
+        {
+          "Id": "8966b446-2d22-4e60-a748-72d20eba7dfc",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -35.1228065,
+            "y": 211.5489,
+            "z": -22.8285522
+          },
+          "RotationAngles": {
+            "x": 12.3526325,
+            "y": 54.84627,
+            "z": 163.255371
+          }
+        },
+        {
+          "Id": "840fd721-399f-4903-ab25-b3062aa6e608",
+          "PrefabName": "assets/prefabs/deployable/campfire/campfire.prefab",
+          "Position": {
+            "x": -26.0693665,
+            "y": 213.169128,
+            "z": -33.9519043
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "98cc8128-325f-41a1-b8fc-3c36fc6fed46",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.post.town.prefab",
+          "Position": {
+            "x": -45.2201538,
+            "y": 220.021423,
+            "z": 14.239624
+          },
+          "RotationAngles": {
+            "x": 359.430847,
+            "y": 180.0,
+            "z": -5.00921033E-06
+          },
+          "SignArtistImages": [
+            {
+              "Url": "http://assets.imgix.net/~text?fm=png32&txtalign=middle,center&txtsize=45&txt=no%20build%20-%3E&w=256&h=128&txtclr=ffffff&bg=ff0000"
+            }
+          ]
+        },
+        {
+          "Id": "4b86a36a-11fd-45bc-9c5a-fbd2bf1e3671",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -25.968277,
+            "y": 216.009033,
+            "z": -32.59143
+          },
+          "RotationAngles": {
+            "x": 349.675171,
+            "y": 220.355637,
+            "z": 357.53598
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/topthrownexplosives?bg=#1c1c1a"
+            }
+          ]
+        }
+      ]
+    },
+    "ue_jungle_swamp_a": {
+      "Entities": [
+        {
+          "Id": "bb8fcaa5-f9ab-4a82-a85b-69d205c2690c",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 0.0,
+            "y": 220.0,
+            "z": 0.0
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "67ec1371-3536-418c-aced-0dc98c3648d6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -60.1572647,
+            "y": 218.8194,
+            "z": 19.0311279
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "5a847def-66d4-4476-9424-d1d814af9991",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 31.4574051,
+            "y": 220.0,
+            "z": 13.61499
+          },
+          "RotationAngles": {
+            "x": 4.82171936E-06,
+            "y": 254.2846,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "7012e77d-bbb6-40a7-8ee1-eee44fd0c3e6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -42.5182953,
+            "y": 218.789566,
+            "z": 5.180664
+          },
+          "RotationAngles": {
+            "x": 353.999969,
+            "y": -5.26463964E-07,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "6cc4f700-2d3d-4743-8a79-15a6d3d5f7b3",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -24.7934875,
+            "y": 220.0,
+            "z": 18.9249878
+          },
+          "RotationAngles": {
+            "x": -2.7174367E-06,
+            "y": 147.144974,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "c2712764-eb57-4794-9e49-defb1338deee",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 23.5195389,
+            "y": 220.0,
+            "z": 23.16095
+          },
+          "RotationAngles": {
+            "x": 3.49734819E-06,
+            "y": 224.284225,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "c740b034-8da9-45e9-8efa-c8f0505aa2ad",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -20.1904678,
+            "y": 220.278641,
+            "z": -23.6625366
+          },
+          "RotationAngles": {
+            "x": 354.857056,
+            "y": 47.1434479,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "124ffc17-06a3-469a-934e-90dee172f2f7",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -4.88433075,
+            "y": 213.017258,
+            "z": 6.50598145
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "2506fb9a-8238-4b85-8a0c-5ceff64ff55a",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -10.4272385,
+            "y": 220.0,
+            "z": -30.5818481
+          },
+          "RotationAngles": {
+            "x": -2.61186369E-06,
+            "y": 31.4287872,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "fb7d7ffd-a60a-476b-9711-5ae102bba52c",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 42.7976379,
+            "y": 219.55127,
+            "z": 32.20807
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "56bf24d1-5bbd-4478-a055-4ce08a527566",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 11.3550339,
+            "y": 220.0,
+            "z": 30.3699951
+          },
+          "RotationAngles": {
+            "x": -1.80045356E-06,
+            "y": 23.1430435,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "099e806c-971c-49ec-99da-0477553603f4",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -18.4967422,
+            "y": 220.0,
+            "z": -0.143371582
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "f8e633ee-1df7-4e11-b3eb-53f4c97935c8",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -17.9551163,
+            "y": 220.0,
+            "z": -17.00122
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "b6a5edb9-64ea-42c3-a576-e6fb661f429b",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 24.0002289,
+            "y": 220.0,
+            "z": -21.79309
+          },
+          "RotationAngles": {
+            "x": -3.40713677E-06,
+            "y": 137.14006,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "f59d256b-3149-4ac9-9cee-038a1a3f540b",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 18.8571777,
+            "y": 220.0,
+            "z": 17.885437
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "6b57bbb1-3ab1-49a4-85c3-9356fcd5edc6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -0.611335754,
+            "y": 220.259827,
+            "z": -17.4177856
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "f72b27cc-c81d-46cf-8ce6-edcb8abccf34",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 18.5484848,
+            "y": 220.0,
+            "z": 0.9614258
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "843ad655-3bf9-4278-b6d6-98d4baf362d1",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 0.68372345,
+            "y": 220.0,
+            "z": -32.67517
+          },
+          "RotationAngles": {
+            "x": -3.74322525E-07,
+            "y": 4.285746,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "6fda3f08-c9e0-40e1-89be-b227090eee77",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 0.7874222,
+            "y": 220.0,
+            "z": 17.49115
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "4c3a7160-6184-4d93-930d-7c58bdb5722d",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -34.5762634,
+            "y": 220.0,
+            "z": 7.876404
+          },
+          "RotationAngles": {
+            "x": -3.916095E-06,
+            "y": 128.572662,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "a6c99e79-7f2e-4d55-a490-a8064ae7c299",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -33.0629959,
+            "y": 220.0,
+            "z": -0.0322265625
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "23116813-ee94-4874-98af-3fc159383dc6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 4.110876,
+            "y": 205.248688,
+            "z": -28.7726688
+          },
+          "RotationAngles": {
+            "x": 6.97938674E-15,
+            "y": 3.05078664E-22,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "d83bbb1e-0be0-4b05-86c0-e527547e88b1",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 12.79258,
+            "y": 220.0,
+            "z": -29.2072144
+          },
+          "RotationAngles": {
+            "x": 1.45805723E-06,
+            "y": 339.9996,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "ca33abc9-0ae8-4b55-94b3-253c1b61f63d",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -1.9123764,
+            "y": 220.0,
+            "z": 32.5043335
+          },
+          "RotationAngles": {
+            "x": 3.74321644E-07,
+            "y": 355.714264,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "90ca35bb-26c4-478d-ac5d-413851801d65",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -29.7615089,
+            "y": 220.0,
+            "z": -11.0229492
+          },
+          "RotationAngles": {
+            "x": -4.13862836E-06,
+            "y": 55.7149467,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "68919c80-77b6-479f-add6-aa79f8436254",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 32.7538223,
+            "y": 220.0,
+            "z": 0.9749756
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "94a0fbb8-0d9b-45c7-b9cc-2cd9ddde70c7",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 16.7891388,
+            "y": 220.0,
+            "z": -16.3308716
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "2bea5323-3329-4f49-961b-38d2c58fa28e",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 30.3911057,
+            "y": 220.0,
+            "z": -9.321594
+          },
+          "RotationAngles": {
+            "x": 4.98410645E-06,
+            "y": 294.9723,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "27221647-5471-4584-a052-bf7a693e8eb6",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -14.3532867,
+            "y": 220.0,
+            "z": 27.0101318
+          },
+          "RotationAngles": {
+            "x": -2.50435687E-06,
+            "y": 150.001633,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "df3e97a8-db56-43fa-8d0e-e6e9f5ae5308",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -29.6674728,
+            "y": 211.684082,
+            "z": -41.7837524
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "71a665d2-68f4-4429-9ae9-0dcc4c7a7799",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -16.89824,
+            "y": 220.0,
+            "z": 16.897644
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "586d4a64-f03b-4072-9cb6-972023195198",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -40.8452225,
+            "y": 216.249084,
+            "z": -7.814209
+          },
+          "RotationAngles": {
+            "x": 349.984772,
+            "y": 341.13028,
+            "z": 170.544464
+          }
+        },
+        {
+          "Id": "ba6be81c-ccfa-4e19-856c-13914eec54cb",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 24.8521881,
+            "y": 220.247849,
+            "z": -44.8786621
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "176a0d55-b440-4c13-b910-55e93d967550",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": 18.9074955,
+            "y": 210.04718,
+            "z": 12.8644667
+          },
+          "RotationAngles": {
+            "x": 347.594666,
+            "y": 224.120514,
+            "z": 181.022537
+          }
+        },
+        {
+          "Id": "8966b446-2d22-4e60-a748-72d20eba7dfc",
+          "PrefabName": "assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab",
+          "Position": {
+            "x": -35.1228065,
+            "y": 211.5489,
+            "z": -22.8285522
+          },
+          "RotationAngles": {
+            "x": 12.3526325,
+            "y": 54.84627,
+            "z": 163.255371
+          }
+        },
+        {
+          "Id": "840fd721-399f-4903-ab25-b3062aa6e608",
+          "PrefabName": "assets/prefabs/deployable/campfire/campfire.prefab",
+          "Position": {
+            "x": -26.0693665,
+            "y": 213.169128,
+            "z": -33.9519043
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+          }
+        },
+        {
+          "Id": "98cc8128-325f-41a1-b8fc-3c36fc6fed46",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.post.town.prefab",
+          "Position": {
+            "x": -45.2201538,
+            "y": 220.021423,
+            "z": 14.239624
+          },
+          "RotationAngles": {
+            "x": 359.430847,
+            "y": 180.0,
+            "z": -5.00921033E-06
+          },
+          "SignArtistImages": [
+            {
+              "Url": "http://assets.imgix.net/~text?fm=png32&txtalign=middle,center&txtsize=45&txt=no%20build%20-%3E&w=256&h=128&txtclr=ffffff&bg=ff0000"
+            }
+          ]
+        },
+        {
+          "Id": "4b86a36a-11fd-45bc-9c5a-fbd2bf1e3671",
+          "PrefabName": "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab",
+          "Position": {
+            "x": -25.968277,
+            "y": 216.009033,
+            "z": -32.59143
+          },
+          "RotationAngles": {
+            "x": 349.675171,
+            "y": 220.355637,
+            "z": 357.53598
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://the-bandit.ovh/api/sdk/Rust/topthrownexplosives?bg=#1c1c1a"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
